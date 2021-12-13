@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://laranjazda:bros2011@h-s-o-b.5b97q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+      database: register_service
+loggin:
+  level:
+    ROOT: DEBUG
+debub: true
